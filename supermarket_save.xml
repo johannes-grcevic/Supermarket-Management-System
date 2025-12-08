@@ -1,0 +1,8 @@
+<object-stream>
+  <controllers.Supermarket>
+    <floorAreas>
+      <size>0</size>
+    </floorAreas>
+    <file>supermarket_save.xml</file>
+  </controllers.Supermarket>
+</object-stream>
