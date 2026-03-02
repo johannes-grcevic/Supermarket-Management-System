@@ -1,4 +1,4 @@
-# Supermarket-Management-System
+# Supermarket Management System
 
 A supermarket management system in Java that makes heavy use of custom-built internal data structures. 
 The system should allow the user to manage a supermarket that is made up of multiple floor areas.
